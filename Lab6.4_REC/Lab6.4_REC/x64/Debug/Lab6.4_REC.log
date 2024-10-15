@@ -1,0 +1,3 @@
+﻿  Lab6.4_REC.cpp
+C:\Users\Acer\source\repos\Lab6.4_REC\Lab6.4_REC\Lab6.4_REC.cpp(53,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6.4_REC.vcxproj -> C:\Users\Acer\source\repos\Lab6.4_REC\x64\Debug\Lab6.4_REC.exe
